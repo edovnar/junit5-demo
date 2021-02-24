@@ -28,5 +28,5 @@ jobs:
 
 parameters:
   rerun-context:
-    default: ""
+    default: "hopphey"
     type: string
